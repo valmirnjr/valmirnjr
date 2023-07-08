@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Valmir!
-- 👀 I’m interested in embedded systems, computer architectures and IoT.
+- 👀 I’m interested in IoT, embedded systems and functional programming.
 - 🌱 I’m currently learning about AWS Services, Flask and firmware development using Raspberry Pi.
 - 💞️ I’m looking to collaborate on Python, C and C++ projects.
 - 📫 How to reach me: https://www.linkedin.com/in/valmir-junior/
